@@ -1,1 +1,3 @@
 my first maven java project 
+adding 2nd line
+hello
