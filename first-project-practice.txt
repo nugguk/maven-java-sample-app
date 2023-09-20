@@ -3,3 +3,4 @@ my second maven java application project practice
 welcome
 adding changes to second project
 hello
+today practice work
