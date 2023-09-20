@@ -2,4 +2,6 @@ hedited for rebase
 hello
 hi
 adding 3rd line
-adding 4th line
+adding 4th lin
+
+adding new line for issuefixes branche
