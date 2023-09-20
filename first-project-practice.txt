@@ -1,5 +1,6 @@
 my second maven java application project practice
 
+adding new line in vi editor mode
 welcome
 adding changes to second project
 hello
